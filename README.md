@@ -51,6 +51,11 @@
 ### 8.腾讯云函数+chatHub[最安全的请求方式，没有之一]
 请点击:[腾讯云函数+chatHub](cloudtencent.md)查看详细
 
+---
+### 9.openapi平台
+点击前往：[OpenApi](https://platform.openai.com/)\
+点击前往：[playground](https://platform.openai.com/playground)\
+点击前往：[ApiKeys](https://platform.openai.com/account/api-keys)
 
 ---
 ### 99.资源
