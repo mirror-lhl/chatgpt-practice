@@ -48,12 +48,22 @@
 大家有好的平台，可以留言回复，持续集成
 
 ---
+### 8.腾讯云函数+chatHub[最安全的请求方式，没有之一]
+请点击:[腾讯云函数+chatHub](cloudtencent.md)查看详细
+
+
+---
 ### 99.资源
-> 1. [IP检测](https://iplocation.com/)\
+> 1. IP检测\
+> 点击前往：[IP检测](https://iplocation.com/)
 > 2. 稳定梯子：\
 > [下载链接（推荐使用浏览器访问）](https://bitbucket.org/letsgogo/letsgogo_18/src/master/README.md)\
 > [备用链接（推荐使用浏览器访问）](https://github.com/LetsGo666/LetsGo_4)\
-> 安装后打开填写我的ID：228317839 你还能多得3天会员!
+> ***安装后打开填写我的ID：228317839 你还能多得3天会员!***
 > 3. 接码平台：\
-> [sms-activate](https://sms-activate.org/?ref=6463321)
+> 点击前往：[sms-activate](https://sms-activate.org/?ref=6463321)
+> 4. 腾讯云函数\
+> 点击前往：[腾讯云](https://url.cn/EmepAnBz)
+> 5. 阿里云\
+> 点击前往：[阿里云](https://www.aliyun.com/product/ecs?scm=20140722.M_4691652._.V_1&source=5176.11533457&userCode=bfo0acdf)
 
